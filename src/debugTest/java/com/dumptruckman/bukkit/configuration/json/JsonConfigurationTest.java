@@ -3,7 +3,7 @@ package com.dumptruckman.bukkit.configuration.json;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.serialization.ConfigurationSerialization;
-import org.bukkit.craftbukkit.v1_12_R1.inventory.CraftItemFactory;
+import org.bukkit.craftbukkit.v1_12_2_R1.inventory.CraftItemFactory;
 import org.bukkit.inventory.ItemFactory;
 import org.bukkit.inventory.ItemStack;
 import org.junit.Before;
